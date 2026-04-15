@@ -1,6 +1,6 @@
 # Mi Portafolio Personal 🚀
 
-¡Bienvenido al repositorio de mi portafolio web! Este proyecto es una vitrina de mi trayectoria académica, habilidades técnicas y los proyectos que he desarrollado como estudiante de programación.
+¡Bienvenido al repositorio de mi portafolio web! Este proyecto es una vista de mi trayectoria académica, habilidades técnicas y los proyectos que he desarrollado como estudiante de programación.
 
 ## 📱 Vista Previa
 El portafolio presenta un diseño moderno y oscuro (Dark Mode), optimizado para una lectura clara y una navegación fluida. Incluye secciones de:
